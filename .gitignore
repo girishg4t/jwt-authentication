@@ -28,16 +28,4 @@ build/Release
 node_modules
 .vscode
 
-#Typescript, we do not want js files
-*.js
-*.js.map
-*.d.ts
-!**/typings/**/*.d.ts
 
-#Visual studio files
-bin
-obj
-*.njsproj
-*.suo
-/nbproject/project.xml
-/nbproject/project.properties
